@@ -143,8 +143,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="AddUserInfo.h" />
+    <ClInclude Include="ChangeSts.h" />
+    <ClInclude Include="Dbm.h" />
     <ClInclude Include="ehmsg.h" />
     <ClInclude Include="EHPacket.h" />
+    <ClInclude Include="EHWrapSocket.h" />
+    <ClInclude Include="IDExistAck.h" />
+    <ClInclude Include="IDExist.h" />
+    <ClInclude Include="IsCorrect.h" />
+    <ClInclude Include="IsCorrectAck.h" />
     <ClInclude Include="KeepAlive.h" />
     <ClInclude Include="Log.h" />
     <ClInclude Include="LogInReq.h" />
@@ -154,8 +162,10 @@
     <ClInclude Include="Reg.h" />
     <ClInclude Include="RegReq.h" />
     <ClInclude Include="RegRes.h" />
+    <ClInclude Include="RemoveUser.h" />
     <ClInclude Include="Sts.h" />
     <ClInclude Include="UnRegReq.h" />
+    <ClInclude Include="UserSts.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

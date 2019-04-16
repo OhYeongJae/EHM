@@ -1,0 +1,7 @@
+﻿  EHWrapSocket.cpp
+d:\c++\ehm\eh 메신저\ehwrapsocketlib\ehwrapsocket.cpp(10): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2219): note: 'gethostbyname' 선언을 참조하십시오.
+d:\c++\ehm\eh 메신저\ehwrapsocketlib\ehwrapsocket.cpp(74): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 'inet_addr' 선언을 참조하십시오.
+     D:\c++\EHM\EH 메신저\Debug\EHWrapSocketLib.lib 라이브러리 및 D:\c++\EHM\EH 메신저\Debug\EHWrapSocketLib.exp 개체를 생성하고 있습니다.
+  EHWrapSocketLib.vcxproj -> D:\c++\EHM\EH 메신저\Debug\EHWrapSocketLib.dll

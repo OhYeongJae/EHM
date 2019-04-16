@@ -22,6 +22,9 @@
     <Filter Include="헤더 파일\sts">
       <UniqueIdentifier>{7fcd35ec-5239-4bf0-bd33-67529d2ca131}</UniqueIdentifier>
     </Filter>
+    <Filter Include="헤더 파일\Dbm">
+      <UniqueIdentifier>{821867d5-f2ce-4d41-9db7-b31d8af99bf0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Reg.h">
@@ -62,6 +65,36 @@
     </ClInclude>
     <ClInclude Include="OtherUserInfo.h">
       <Filter>헤더 파일\sts</Filter>
+    </ClInclude>
+    <ClInclude Include="Dbm.h">
+      <Filter>헤더 파일\Dbm</Filter>
+    </ClInclude>
+    <ClInclude Include="IDExist.h">
+      <Filter>헤더 파일\Dbm</Filter>
+    </ClInclude>
+    <ClInclude Include="IDExistAck.h">
+      <Filter>헤더 파일\Dbm</Filter>
+    </ClInclude>
+    <ClInclude Include="AddUserInfo.h">
+      <Filter>헤더 파일\Dbm</Filter>
+    </ClInclude>
+    <ClInclude Include="UserSts.h">
+      <Filter>헤더 파일\Dbm</Filter>
+    </ClInclude>
+    <ClInclude Include="IsCorrect.h">
+      <Filter>헤더 파일\Dbm</Filter>
+    </ClInclude>
+    <ClInclude Include="IsCorrectAck.h">
+      <Filter>헤더 파일\Dbm</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeSts.h">
+      <Filter>헤더 파일\Dbm</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveUser.h">
+      <Filter>헤더 파일\Dbm</Filter>
+    </ClInclude>
+    <ClInclude Include="EHWrapSocket.h">
+      <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
