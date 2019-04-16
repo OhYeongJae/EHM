@@ -145,13 +145,16 @@
   <ItemGroup>
     <ClInclude Include="ehmsg.h" />
     <ClInclude Include="EHPacket.h" />
+    <ClInclude Include="KeepAlive.h" />
     <ClInclude Include="Log.h" />
     <ClInclude Include="LogInReq.h" />
     <ClInclude Include="LogInRes.h" />
     <ClInclude Include="LogOutReq.h" />
+    <ClInclude Include="OtherUserInfo.h" />
     <ClInclude Include="Reg.h" />
     <ClInclude Include="RegReq.h" />
     <ClInclude Include="RegRes.h" />
+    <ClInclude Include="Sts.h" />
     <ClInclude Include="UnRegReq.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

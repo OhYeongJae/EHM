@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RegLib", "RegLib\RegLib.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LogLib", "LogLib\LogLib.vcxproj", "{3604B912-260E-400F-A3E6-FA05497D1E15}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StsLib", "StsLib\StsLib.vcxproj", "{F86DD9E8-854D-4FC5-8A95-6AD669095E2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{3604B912-260E-400F-A3E6-FA05497D1E15}.Release|x64.Build.0 = Release|x64
 		{3604B912-260E-400F-A3E6-FA05497D1E15}.Release|x86.ActiveCfg = Release|Win32
 		{3604B912-260E-400F-A3E6-FA05497D1E15}.Release|x86.Build.0 = Release|Win32
+		{F86DD9E8-854D-4FC5-8A95-6AD669095E2D}.Debug|x64.ActiveCfg = Debug|x64
+		{F86DD9E8-854D-4FC5-8A95-6AD669095E2D}.Debug|x64.Build.0 = Debug|x64
+		{F86DD9E8-854D-4FC5-8A95-6AD669095E2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F86DD9E8-854D-4FC5-8A95-6AD669095E2D}.Debug|x86.Build.0 = Debug|Win32
+		{F86DD9E8-854D-4FC5-8A95-6AD669095E2D}.Release|x64.ActiveCfg = Release|x64
+		{F86DD9E8-854D-4FC5-8A95-6AD669095E2D}.Release|x64.Build.0 = Release|x64
+		{F86DD9E8-854D-4FC5-8A95-6AD669095E2D}.Release|x86.ActiveCfg = Release|Win32
+		{F86DD9E8-854D-4FC5-8A95-6AD669095E2D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

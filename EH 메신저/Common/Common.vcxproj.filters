@@ -19,6 +19,9 @@
     <Filter Include="헤더 파일\Log">
       <UniqueIdentifier>{9484be51-2cf2-4ae8-b13e-1b62df333089}</UniqueIdentifier>
     </Filter>
+    <Filter Include="헤더 파일\sts">
+      <UniqueIdentifier>{7fcd35ec-5239-4bf0-bd33-67529d2ca131}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Reg.h">
@@ -50,6 +53,15 @@
     </ClInclude>
     <ClInclude Include="LogOutReq.h">
       <Filter>헤더 파일\Log</Filter>
+    </ClInclude>
+    <ClInclude Include="Sts.h">
+      <Filter>헤더 파일\sts</Filter>
+    </ClInclude>
+    <ClInclude Include="KeepAlive.h">
+      <Filter>헤더 파일\sts</Filter>
+    </ClInclude>
+    <ClInclude Include="OtherUserInfo.h">
+      <Filter>헤더 파일\sts</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
